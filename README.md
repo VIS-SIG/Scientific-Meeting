@@ -1,6 +1,3 @@
-# PSI Scientific-Meeting
-Generating Insights through Modern Applications of Data Visualisation
+# Material for the PSI ScientificMeeting
 
-# Material
-
-On this page you will find material for the workshop shortly.
+On this page, you will find material for the PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation.
