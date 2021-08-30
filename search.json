@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "This site is set up by the PSI Visualization special interest group.",
+      "author": [],
+      "contents": "\nIf you are interested in our PSI VIS SIG, you can find out more here.\nWe are hosting the Wonderful Wednesday Meetings where we discuss interesting visualization once a month. They are free. Find out more information and sing up here.\n\n\n\n",
+      "last_modified": "2021-08-30T21:42:21+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "PSI Scientific Meeting",
+      "description": "This Webpage is set up to provide you with the material used in the PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation.\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-30T21:42:21+02:00"
+    }
+  ],
+  "collections": []
+}
