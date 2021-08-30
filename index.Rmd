@@ -1,0 +1,15 @@
+---
+title: "PSI Scientific Meeting"
+description: |
+  This Webpage is set up to provide you with the material used in the PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

@@ -1,0 +1,14 @@
+---
+title: "About this site"
+description: |
+  This site is set up by the PSI Visualization special interest group.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+If you are interested in our PSI VIS SIG, you can find out more [here.](https://www.psiweb.org/sigs-special-interest-groups/visualisation)
+
+We are hosting the Wonderful Wednesday Meetings where we discuss interesting visualization once a month. They are free. Find out more information and sing up [here.](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
