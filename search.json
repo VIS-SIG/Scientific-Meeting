@@ -6,15 +6,15 @@
       "description": "This site is set up by the PSI Visualization special interest group.",
       "author": [],
       "contents": "\nIf you are interested in our PSI VIS SIG, you can find out more here.\nWe are hosting the Wonderful Wednesday Meetings where we discuss interesting visualization once a month. They are free. Find out more information and sing up here.\n\n\n\n",
-      "last_modified": "2021-08-30T21:42:21+02:00"
+      "last_modified": "2021-09-03T19:58:36+02:00"
     },
     {
       "path": "index.html",
-      "title": "PSI Scientific Meeting",
-      "description": "This Webpage is set up to provide you with the material used in the PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation.\n",
+      "title": "Material for the PSI Scientific Meeting",
+      "description": "On this page, you will find material for the [PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation](https://psiweb.org/events/event-item/2021/09/17/default-calendar/psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation)\\\n**Part 2**\\\nThis workshop will provide a practical introduction to modern methods of data visualisation through practical hands-on workshop exercises. This includes interactive and animated data visualisation tools, and the development of open source code. \n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-08-30T21:42:21+02:00"
+      "contents": "\nDear Workshop Participants,\nTo ensure a smooth workshop, please make sure you have familiarized yourself with workshop material and installed necessary applications in advance. In case of technical problems, please contact xxx in advance.\nPlease find material and download links for the individual workshop sessions below:\nWS 1: Pen and paper exercise\nAlexander Schacht (Veramed)\nIn preparation, please make yourself familiar with Miro, please create a login before the sessions as you will use this to share your sketches. We suggest logging in with your smart phone as this makes it easier to share your sketches. Please follow this link.\nPDF of data that will be used to Visualise during the session can be viewed here.\nWS 2: How to implement effective visualisations in R using visR\nCharlotta Fruechtenicht (Roche) + James Black (Roche)\nThis workshop will give a hands-on introduction to visR. It will show you how to create figures and tables for data exploration and time to event analyses adhering to good graphical principles. in only a few lines of R code.\nPlease visit the visR vignette for download instructions.\nWS 3: Building Open Source Tools for Safety Monitoring: Advancing Research Through Community Collaboration\nJeremy Wildfire (Gilead)\nThe Interactive Safety Graphics workstream of the ASA-DIA Biopharm Safety Working Group is excited to introduce version 2 of the safetyGraphics R package\nWS 4: Elaborator app\nMadhurima Majumder (Bayer)\nThe elaborator app is developed with the statistical software R [5] and is based on the R Shiny framework [6]. R is an open source software and freely available. The R package elaborator can be obtained here. No programming knowledge is required for using the app. The only requirements are a computer on which the software R is installed, basic knowledge in R and one’s laboratory data in an appropriate format to be uploaded within the app. A detailed description of the data format required for elaborator is provided within the app in the menu (Data Manual). The app also contains a manual for the use of the elaborator within the Information-tab. The sequencing methods implemented in elaborator make use of the R package seriation [3, 4]. https://doi.org/10.1007/s43441-021-00326-4\n\n\n\n",
+      "last_modified": "2021-09-03T19:58:37+02:00"
     }
   ],
   "collections": []
