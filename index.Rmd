@@ -2,6 +2,8 @@
 title: "Material for the PSI Scientific Meeting"
 description: |
   On this page, you will find material for the [PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation](https://psiweb.org/events/event-item/2021/09/17/default-calendar/psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation)\
+  To meet after the workshop join the [Wonder space](https://www.wonder.me/r?id=7b090d6c-4c0f-44fc-8ea3-c19a99a9e6d1).
+
   **Part 2**\
   This workshop will provide a practical introduction to modern methods of data visualisation through practical hands-on workshop exercises. This includes interactive and animated data visualisation tools, and the development of open source code. 
 site: distill::distill_website
@@ -19,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Dear Workshop Participants,
 
-To ensure a smooth workshop, please make sure you have familiarized yourself with workshop material and installed necessary applications in advance. In case of technical problems, please contact xxx in advance.
+To ensure a smooth workshop, please make sure you have familiarized yourself with workshop material and installed necessary applications in advance. In case of technical problems, please contact [Bodo Kirsch](bodo.kirsch@bayer.com) in advance or visit the [wonder room](https://www.wonder.me/r?id=7b090d6c-4c0f-44fc-8ea3-c19a99a9e6d1) during the meeting.
 
 Please find material and download links for the individual workshop sessions below:
 
@@ -38,17 +40,17 @@ Charlotta Fruechtenicht (Roche) + James Black (Roche)
 
 This workshop will give a hands-on introduction to visR. It will show you how to create figures and tables for data exploration and time to event analyses adhering to good graphical principles. in only a few lines of R code.
 
-Please visit the [visR](https://openpharma.github.io/visR/) vignette for download instructions.
+The tutorial will be held in the learnr environment, so you don't need to install visR for this workshop. If you want explore the package beforehand or get help troubleshooting specific use cases, please visit the [visR vignette](https://openpharma.github.io/visR/) for download instructions.
 
 
 ### WS 3: Building Open Source Tools for Safety Monitoring: Advancing Research Through Community Collaboration
 Jeremy Wildfire (Gilead)
 
-The Interactive Safety Graphics workstream of the ASA-DIA Biopharm Safety Working Group is excited to introduce version 2 of the safetyGraphics R package
+The Interactive Safety Graphics workstream of the ASA-DIA Biopharm Safety Working Group is excited to introduce version 2 of the safetyGraphics R package. Currently, version 1.1 is on CRAN, but it will be updated within the next few days (before the workshop starts). So, please check [here](https://cran.r-project.org/web/packages/safetyGraphics/index.html) for the new version. Once it is updated, install the package via *install.packages('safetyGraphics')*. Also, please have a look at the [vignette](https://github.com/SafetyGraphics/safetyGraphics/wiki/Cookbook).
 
 
 ### WS 4: Elaborator app
 Madhurima Majumder (Bayer)
 
-The elaborator app is developed with the statistical software R [5] and is based on the R Shiny framework [6]. R is an open source software and freely available. The R package elaborator can be obtained [here](https://cran.r-project.org/package=elaborator). No programming knowledge is required for using the app. The only requirements are a computer on which the software R is installed, basic knowledge in R and one’s laboratory data in an appropriate format to be uploaded within the app. A detailed description of the data format required for elaborator is provided within the app in the menu (Data Manual). The app also contains a manual for the use of the elaborator within the Information-tab. The sequencing methods implemented in elaborator make use of the R package seriation [3, 4].
+The elaborator app is developed with the statistical software R [5] and is based on the R Shiny framework [6]. R is an open source software and freely available. The R package elaborator can be obtained [here](https://cran.r-project.org/package=elaborator). Please use the source package to install, e.g. type *install.packages("elaborator", type="source")* in your console. The data set can be found here. No programming knowledge is required for using the app. The only requirements are a computer on which the software R is installed, basic knowledge in R and one’s laboratory data in an appropriate format to be uploaded within the app. A detailed description of the data format required for elaborator is provided within the app in the menu (Data Manual). The app also contains a manual for the use of the elaborator within the Information-tab. The sequencing methods implemented in elaborator make use of the R package seriation [3, 4].
 https://doi.org/10.1007/s43441-021-00326-4
