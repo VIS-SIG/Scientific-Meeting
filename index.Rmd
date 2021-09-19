@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Dear Workshop Participants,
 
-To ensure a smooth workshop, please make sure you have familiarized yourself with workshop material and installed necessary applications in advance. In case of technical problems, please contact [Bodo Kirsch](bodo.kirsch@bayer.com) in advance or visit the [wonder room](https://www.wonder.me/r?id=7b090d6c-4c0f-44fc-8ea3-c19a99a9e6d1) during the meeting.
+To ensure a smooth workshop, please make sure you have familiarized yourself with workshop material and installed necessary applications in advance. In case of technical problems, please contact [Bodo Kirsch](mailto:bodo.kirsch@bayer.com) in advance or visit the [wonder room](https://www.wonder.me/r?id=7b090d6c-4c0f-44fc-8ea3-c19a99a9e6d1) during the meeting.
 
 Please find material and download links for the individual workshop sessions below:
 
