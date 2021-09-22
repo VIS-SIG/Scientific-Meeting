@@ -36,7 +36,7 @@ PDF of data that will be used to Visualise during the session can be viewed here
 
 
 ### WS 2: How to implement effective visualisations in R using visR
-Charlotta Fruechtenicht (Roche) + James Black (Roche)
+Charlotta Fruechtenicht (Roche) + Tim Treis (Roche) + Rebecca Albrecht (Roche)
 
 This workshop will give a hands-on introduction to visR. It will show you how to create figures and tables for data exploration and time to event analyses adhering to good graphical principles. in only a few lines of R code.
 
